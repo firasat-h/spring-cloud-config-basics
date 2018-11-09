@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/practical-microservices/spring-cloud-config-basics-repo.git
+          uri: https://github.com/firasat-h/spring-cloud-config-basics-repo.git
 
